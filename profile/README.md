@@ -9,5 +9,3 @@ In comparison to the official GitHub organisation, a lot of the software you fin
 We love contributions and feedback from you! So please feel free to open pull requests and issues as you can! :two_hearts:
 
 Welcome and we hope what you find here useful :bow:
-
-GitHub staff can [find extra guidance here](https://github.com/advanced-security/contributing/).
